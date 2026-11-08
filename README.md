@@ -12,7 +12,7 @@ The study uses a **300-stock candidate universe**, estimates **18 daily factor-r
 
 ![Predicted and subsequent equal-weight portfolio risk](docs/figures/predicted_vs_realized_risk.png)
 
-Each line uses the same equal-weight portfolio at a given forecast origin. Predicted risk is $\sqrt{21w^\top\widehat{\Sigma}_tw}$. The realized proxy is $\sqrt{21\operatorname{mean}[(w^\top r_{t+1:t+21})^2]}$, where daily returns are excess returns and the portfolio weights are applied unchanged each day. The units are percentage points of 21-session risk under a constant-daily-risk scaling convention. The dashed line marks the start of the 2022-onward evaluation segment.
+Each line uses the same equal-weight portfolio at a given forecast origin. Predicted risk is $`\sqrt{21w^\top\widehat{\Sigma}_tw}`$. The realized proxy is $`\sqrt{21\mathrm{mean}[(w^\top r_{t+1:t+21})^2]}`$, where daily returns are excess returns and the portfolio weights are applied unchanged each day. The units are percentage points of 21-session risk under a constant-daily-risk scaling convention. The dashed line marks the start of the 2022-onward evaluation segment.
 
 ## Main results
 
@@ -102,7 +102,7 @@ The model includes one market intercept, nine sector effects, six style factors,
 | Exposure | Direction and construction |
 |---|---|
 | Size | Negative log market capitalization, so smaller stocks have higher exposure |
-| Momentum | Adjusted price at $t-21$ divided by adjusted price at $t-252$, minus one |
+| Momentum | Adjusted price at $`t-21`$ divided by adjusted price at $`t-252`$, minus one |
 | Quality | Composite of profitability, cash earnings quality and balance-sheet strength, with at least 3 of 4 components available |
 | Growth | Three-year revenue growth and earnings change scaled by assets, requiring both measures |
 | Value | Book, earnings and operating cash flow relative to market capitalization, requiring at least 2 of 3 components |
@@ -114,14 +114,14 @@ Exposures are winsorized, market-cap-centered and standardized at each monthly s
 
 $$r_{i,t}-r_{f,t}=f_{m,t}+f_{s(i),t}+\sum_k X_{i,k,t}f_{k,t}+\epsilon_{i,t}.$$
 
-Weighted least squares minimizes $\sum_i\sqrt{\mathrm{cap}_{i,t}}\epsilon_{i,t}^2$. Sector effects satisfy a market-cap-weighted zero-sum constraint. A snapshot becomes usable strictly after its date. The coefficients form the daily factor-return histories used to estimate factor covariance. [Average realized factor coefficients](docs/figures/average_factor_returns.png) are also included.
+Weighted least squares minimizes $`\sum_i\sqrt{\mathrm{cap}_{i,t}}\epsilon_{i,t}^2`$. Sector effects satisfy a market-cap-weighted zero-sum constraint. A snapshot becomes usable strictly after its date. The coefficients form the daily factor-return histories used to estimate factor covariance. [Average realized factor coefficients](docs/figures/average_factor_returns.png) are also included.
 
 ### Covariance forecasts
 
 | Component | Fixed specification |
 |---|---|
-| Factor covariance $\widehat F$ | Up to 756 past sessions, 63-session exponential half-life, 20% shrinkage toward its own diagonal |
-| Specific variance $\widehat D$ | Past 252 residual sessions, 63-session half-life, at least 126 observations per stock |
+| Factor covariance $`\widehat F`$ | Up to 756 past sessions, 63-session exponential half-life, 20% shrinkage toward its own diagonal |
+| Specific variance $`\widehat D`$ | Past 252 residual sessions, 63-session half-life, at least 126 observations per stock |
 | Direct-return baselines | Sample covariance, EWMA, Ledoit–Wolf and diagonal EWMA, each using 252 past sessions |
 | Forecast schedule | Monthly market close |
 | Validation horizons | Next 21 and 63 trading sessions |
@@ -130,9 +130,9 @@ Every estimator uses the same stocks selected from information available at the 
 
 ### Evaluation targets
 
-- Centered future sample covariance $S$, with `ddof=1`, is used for relative Frobenius error and correlation RMSE.
-- The future daily second moment $M=H^{-1}\sum_{h=1}^H r_{t+h}r_{t+h}^\top$ is used for zero-conditional-mean Gaussian loss and portfolio calibration.
-- Gaussian loss per stock is $[\log\det(\widehat\Sigma)+\operatorname{tr}(\widehat\Sigma^{-1}M)]/N$.
+- Centered future sample covariance $`S`$, with `ddof=1`, is used for relative Frobenius error and correlation RMSE.
+- The future daily second moment $`M=H^{-1}\sum_{h=1}^H r_{t+h}r_{t+h}^\top`$ is used for zero-conditional-mean Gaussian loss and portfolio calibration.
+- Gaussian loss per stock is $`[\log\det(\widehat\Sigma)+\mathrm{tr}(\widehat\Sigma^{-1}M)]/N`$.
 - Singular forecast matrices receive a predeclared diagonal jitter for inverse-based scores and optimization. Raw matrix errors use the original covariance estimates. The jitter is recorded at each origin.
 
 The first segment covers 2014–2021, and origins from 2022 onward form the reported evaluation segment. Future windows that cross the segment boundary are excluded from segment summaries. If any frozen stock lacks a future return, the entire horizon is skipped. The ex-ante stock set remains fixed.
