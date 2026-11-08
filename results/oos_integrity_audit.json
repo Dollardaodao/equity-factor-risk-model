@@ -1,0 +1,1764 @@
+{
+  "status": "passed",
+  "origins": {
+    "2014-02-28": {
+      "frozen_universe": {
+        "passed": true,
+        "n_stocks": 109
+      },
+      "2014-02-28:equal_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:cap_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "exposure_asof": "2014-02-28",
+      "past_direct_start": "2013-03-01",
+      "past_direct_end": "2014-02-28",
+      "past_factor_end": "2014-02-28",
+      "2014-02-28:forecast:factor": {
+        "max_absolute_error": 2.168404344971009e-19,
+        "passed": true
+      },
+      "2014-02-28:minimum_variance:factor": {
+        "max_absolute_error": 3.469446951953614e-16,
+        "passed": true
+      },
+      "2014-02-28:21:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:S": {
+        "max_absolute_error": 1.0842021724855044e-19,
+        "passed": true
+      },
+      "2014-02-28:21:centered_rank": {
+        "observed": 20,
+        "upper_bound": 20
+      },
+      "2014-02-28:21:factor:gaussian": {
+        "max_absolute_error": 3.410605131648481e-13,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolio_prediction": {
+        "max_absolute_error": 2.236166980751353e-19,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolio_ratio": {
+        "max_absolute_error": 3.1086244689504383e-15,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2014-02-28:21:factor:portfolios_checked": 43,
+      "2014-02-28:63:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:S": {
+        "max_absolute_error": 1.0842021724855044e-19,
+        "passed": true
+      },
+      "2014-02-28:63:centered_rank": {
+        "observed": 62,
+        "upper_bound": 62
+      },
+      "2014-02-28:63:factor:gaussian": {
+        "max_absolute_error": 3.410605131648481e-13,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolio_prediction": {
+        "max_absolute_error": 2.236166980751353e-19,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolio_ratio": {
+        "max_absolute_error": 3.774758283725532e-15,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2014-02-28:63:factor:portfolios_checked": 43,
+      "2014-02-28:forecast:sample_252_jitter": {
+        "max_absolute_error": 5.421010862427522e-20,
+        "passed": true
+      },
+      "2014-02-28:minimum_variance_mix:sample_252_jitter": {
+        "max_absolute_error": 3.5735303605122226e-16,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:gaussian": {
+        "max_absolute_error": 1.1368683772161603e-13,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 3.2526065174565133e-19,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 3.3306690738754696e-15,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2014-02-28:21:sample_252_jitter:portfolios_checked": 43,
+      "2014-02-28:63:sample_252_jitter:gaussian": {
+        "max_absolute_error": 2.2737367544323206e-13,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 3.2526065174565133e-19,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 3.774758283725532e-15,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2014-02-28:63:sample_252_jitter:portfolios_checked": 43,
+      "2014-02-28:forecast:ewma_252": {
+        "max_absolute_error": 5.421010862427522e-19,
+        "passed": true
+      },
+      "2014-02-28:minimum_variance_mix:ewma_252": {
+        "max_absolute_error": 2.7755575615628914e-16,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 2.710505431213761e-19,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 3.3306690738754696e-15,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2014-02-28:21:ewma_252:portfolios_checked": 43,
+      "2014-02-28:63:ewma_252:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 2.710505431213761e-19,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 3.774758283725532e-15,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2014-02-28:63:ewma_252:portfolios_checked": 43,
+      "2014-02-28:forecast:ledoit_wolf_252": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:minimum_variance_mix:ledoit_wolf_252": {
+        "max_absolute_error": 2.3245294578089215e-16,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 4.547473508864641e-13,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.9651164376299768e-19,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 2.9976021664879227e-15,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2014-02-28:21:ledoit_wolf_252:portfolios_checked": 43,
+      "2014-02-28:63:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 4.547473508864641e-13,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.9651164376299768e-19,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 5.773159728050814e-15,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2014-02-28:63:ledoit_wolf_252:portfolios_checked": 43,
+      "2014-02-28:forecast:diagonal_ewma": {
+        "max_absolute_error": 5.421010862427522e-19,
+        "passed": true
+      },
+      "2014-02-28:minimum_variance:diagonal_ewma": {
+        "max_absolute_error": 6.938893903907228e-18,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:gaussian": {
+        "max_absolute_error": 1.1368683772161603e-13,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 1.6940658945086007e-21,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2014-02-28:21:diagonal_ewma:portfolios_checked": 43,
+      "2014-02-28:63:diagonal_ewma:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 1.6940658945086007e-21,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 1.0658141036401503e-14,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 8.881784197001252e-15,
+        "passed": true
+      },
+      "2014-02-28:63:diagonal_ewma:portfolios_checked": 43,
+      "2014-02-28:split_shares:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:split_cap:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2014-02-28:raw_price_units:NVDA": {
+        "max_absolute_error": 2.000177801164682e-11,
+        "passed": true
+      },
+      "split_unit_examples": {
+        "NVDA": {
+          "asof": "2014-02-28",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 18.3800005913,
+          "shares": 568535613.0,
+          "shares_at_asof": 568535613.0,
+          "market_cap": 10449684903.115108
+        }
+      }
+    },
+    "2020-03-31": {
+      "frozen_universe": {
+        "passed": true,
+        "n_stocks": 193
+      },
+      "2020-03-31:equal_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:cap_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "exposure_asof": "2020-03-31",
+      "past_direct_start": "2019-04-02",
+      "past_direct_end": "2020-03-31",
+      "past_factor_end": "2020-03-31",
+      "2020-03-31:forecast:factor": {
+        "max_absolute_error": 2.6020852139652106e-18,
+        "passed": true
+      },
+      "2020-03-31:minimum_variance_mix:factor": {
+        "max_absolute_error": 6.418476861114186e-16,
+        "passed": true
+      },
+      "2020-03-31:21:M": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:21:S": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-03-31:21:centered_rank": {
+        "observed": 20,
+        "upper_bound": 20
+      },
+      "2020-03-31:21:factor:gaussian": {
+        "max_absolute_error": 1.5916157281026244e-12,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolio_prediction": {
+        "max_absolute_error": 2.6020852139652106e-18,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolio_ratio": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolio_gaussian": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2020-03-31:21:factor:portfolios_checked": 43,
+      "2020-03-31:63:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:S": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:63:centered_rank": {
+        "observed": 62,
+        "upper_bound": 62
+      },
+      "2020-03-31:63:factor:gaussian": {
+        "max_absolute_error": 1.8189894035458565e-12,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolio_prediction": {
+        "max_absolute_error": 2.6020852139652106e-18,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolio_ratio": {
+        "max_absolute_error": 3.3306690738754696e-15,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2020-03-31:63:factor:portfolios_checked": 43,
+      "2020-03-31:forecast:sample_252_jitter": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:minimum_variance_mix:sample_252_jitter": {
+        "max_absolute_error": 6.106226635438361e-15,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:gaussian": {
+        "max_absolute_error": 3.2741809263825417e-11,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.463672932855431e-18,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 1.1546319456101628e-14,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 1.0658141036401503e-14,
+        "passed": true
+      },
+      "2020-03-31:21:sample_252_jitter:portfolios_checked": 43,
+      "2020-03-31:63:sample_252_jitter:gaussian": {
+        "max_absolute_error": 1.9554136088117957e-11,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.463672932855431e-18,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 6.661338147750939e-15,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2020-03-31:63:sample_252_jitter:portfolios_checked": 43,
+      "2020-03-31:forecast:ewma_252": {
+        "max_absolute_error": 5.204170427930421e-18,
+        "passed": true
+      },
+      "2020-03-31:minimum_variance_mix:ewma_252": {
+        "max_absolute_error": 1.4016565685892601e-14,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:gaussian": {
+        "max_absolute_error": 1.3278622645884752e-10,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 2.168404344971009e-18,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-03-31:21:ewma_252:portfolios_checked": 43,
+      "2020-03-31:63:ewma_252:gaussian": {
+        "max_absolute_error": 1.687112671788782e-10,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 2.168404344971009e-18,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 3.3306690738754696e-15,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2020-03-31:63:ewma_252:portfolios_checked": 43,
+      "2020-03-31:forecast:ledoit_wolf_252": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:minimum_variance_mix:ledoit_wolf_252": {
+        "max_absolute_error": 1.6653345369377348e-16,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 1.2505552149377763e-12,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 9.769962616701378e-15,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2020-03-31:21:ledoit_wolf_252:portfolios_checked": 43,
+      "2020-03-31:63:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 1.1368683772161603e-12,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 4.884981308350689e-15,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-03-31:63:ledoit_wolf_252:portfolios_checked": 43,
+      "2020-03-31:forecast:diagonal_ewma": {
+        "max_absolute_error": 5.204170427930421e-18,
+        "passed": true
+      },
+      "2020-03-31:minimum_variance:diagonal_ewma": {
+        "max_absolute_error": 5.204170427930421e-18,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 6.776263578034403e-21,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 2.842170943040401e-14,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 2.842170943040401e-14,
+        "passed": true
+      },
+      "2020-03-31:21:diagonal_ewma:portfolios_checked": 43,
+      "2020-03-31:63:diagonal_ewma:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 6.776263578034403e-21,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 1.4210854715202004e-14,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 1.4210854715202004e-14,
+        "passed": true
+      },
+      "2020-03-31:63:diagonal_ewma:portfolios_checked": 43,
+      "2020-03-31:split_shares:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:split_cap:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:raw_price_units:NVDA": {
+        "max_absolute_error": 4.00007138523506e-10,
+        "passed": true
+      },
+      "2020-03-31:split_shares:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:split_cap:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-03-31:raw_price_units:GOOGL": {
+        "max_absolute_error": 1.999978849198669e-09,
+        "passed": true
+      },
+      "split_unit_examples": {
+        "NVDA": {
+          "asof": "2020-03-31",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 263.600006104,
+          "shares": 612000000.0,
+          "shares_at_asof": 612000000.0,
+          "market_cap": 161323203735.64798
+        },
+        "GOOGL": {
+          "asof": "2020-03-31",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 1161.94999695,
+          "shares": 688335000.0,
+          "shares_at_asof": 688335000.0,
+          "market_cap": 799810851150.5782
+        }
+      }
+    },
+    "2020-10-30": {
+      "frozen_universe": {
+        "passed": true,
+        "n_stocks": 221
+      },
+      "2020-10-30:equal_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:cap_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "exposure_asof": "2020-10-30",
+      "past_direct_start": "2019-11-01",
+      "past_direct_end": "2020-10-30",
+      "past_factor_end": "2020-10-30",
+      "2020-10-30:forecast:factor": {
+        "max_absolute_error": 4.336808689942018e-18,
+        "passed": true
+      },
+      "2020-10-30:minimum_variance:factor": {
+        "max_absolute_error": 6.869504964868156e-16,
+        "passed": true
+      },
+      "2020-10-30:21:M": {
+        "max_absolute_error": 2.168404344971009e-19,
+        "passed": true
+      },
+      "2020-10-30:21:S": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-10-30:21:centered_rank": {
+        "observed": 20,
+        "upper_bound": 20
+      },
+      "2020-10-30:21:factor:gaussian": {
+        "max_absolute_error": 9.094947017729282e-13,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolio_prediction": {
+        "max_absolute_error": 9.75781955236954e-19,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolio_ratio": {
+        "max_absolute_error": 7.549516567451064e-15,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-10-30:21:factor:portfolios_checked": 43,
+      "2020-10-30:63:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:S": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2020-10-30:63:centered_rank": {
+        "observed": 62,
+        "upper_bound": 62
+      },
+      "2020-10-30:63:factor:gaussian": {
+        "max_absolute_error": 9.094947017729282e-13,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolio_prediction": {
+        "max_absolute_error": 9.75781955236954e-19,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolio_ratio": {
+        "max_absolute_error": 9.769962616701378e-15,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolio_gaussian": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2020-10-30:63:factor:portfolios_checked": 43,
+      "2020-10-30:forecast:sample_252_jitter": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-10-30:minimum_variance_mix:sample_252_jitter": {
+        "max_absolute_error": 1.292542461950319e-14,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:gaussian": {
+        "max_absolute_error": 8.094502845779061e-11,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.6263032587282567e-18,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 7.327471962526033e-15,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-10-30:21:sample_252_jitter:portfolios_checked": 43,
+      "2020-10-30:63:sample_252_jitter:gaussian": {
+        "max_absolute_error": 1.4006218407303095e-10,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.6263032587282567e-18,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 4.6629367034256575e-15,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2020-10-30:63:sample_252_jitter:portfolios_checked": 43,
+      "2020-10-30:forecast:ewma_252": {
+        "max_absolute_error": 6.071532165918825e-18,
+        "passed": true
+      },
+      "2020-10-30:minimum_variance_mix:ewma_252": {
+        "max_absolute_error": 8.113301697143527e-15,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:gaussian": {
+        "max_absolute_error": 2.3101165425032377e-10,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 1.1926223897340549e-18,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-10-30:21:ewma_252:portfolios_checked": 43,
+      "2020-10-30:63:ewma_252:gaussian": {
+        "max_absolute_error": 3.6834535421803594e-10,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 1.1926223897340549e-18,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 1.0658141036401503e-14,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 7.105427357601002e-15,
+        "passed": true
+      },
+      "2020-10-30:63:ewma_252:portfolios_checked": 43,
+      "2020-10-30:forecast:ledoit_wolf_252": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-10-30:minimum_variance_mix:ledoit_wolf_252": {
+        "max_absolute_error": 3.2786273695961654e-16,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 4.547473508864641e-13,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 3.9968028886505635e-15,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2020-10-30:21:ledoit_wolf_252:portfolios_checked": 43,
+      "2020-10-30:63:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 6.821210263296962e-13,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 7.549516567451064e-15,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2020-10-30:63:ledoit_wolf_252:portfolios_checked": 43,
+      "2020-10-30:forecast:diagonal_ewma": {
+        "max_absolute_error": 6.071532165918825e-18,
+        "passed": true
+      },
+      "2020-10-30:minimum_variance:diagonal_ewma": {
+        "max_absolute_error": 3.469446951953614e-18,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:gaussian": {
+        "max_absolute_error": 2.2737367544323206e-13,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 1.3552527156068805e-20,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 1.4210854715202004e-14,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 1.4210854715202004e-14,
+        "passed": true
+      },
+      "2020-10-30:21:diagonal_ewma:portfolios_checked": 43,
+      "2020-10-30:63:diagonal_ewma:gaussian": {
+        "max_absolute_error": 2.2737367544323206e-13,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 1.3552527156068805e-20,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 1.0658141036401503e-14,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 1.4210854715202004e-14,
+        "passed": true
+      },
+      "2020-10-30:63:diagonal_ewma:portfolios_checked": 43,
+      "2020-10-30:split_shares:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:split_cap:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:raw_price_units:NVDA": {
+        "max_absolute_error": 9.999894245993346e-10,
+        "passed": true
+      },
+      "2020-10-30:split_shares:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:split_cap:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2020-10-30:raw_price_units:GOOGL": {
+        "max_absolute_error": 3.999730324721895e-09,
+        "passed": true
+      },
+      "split_unit_examples": {
+        "NVDA": {
+          "asof": "2020-10-30",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 501.360015869,
+          "shares": 617000000.0,
+          "shares_at_asof": 617000000.0,
+          "market_cap": 309339129791.173
+        },
+        "GOOGL": {
+          "asof": "2020-10-30",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 1616.10992432,
+          "shares": 681215000.0,
+          "shares_at_asof": 681215000.0,
+          "market_cap": 1100918322095.6487
+        }
+      }
+    },
+    "2026-06-30": {
+      "frozen_universe": {
+        "passed": true,
+        "n_stocks": 264
+      },
+      "2026-06-30:equal_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:cap_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "exposure_asof": "2026-06-30",
+      "past_direct_start": "2025-06-30",
+      "past_direct_end": "2026-06-30",
+      "past_factor_end": "2026-06-30",
+      "2026-06-30:forecast:factor": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2026-06-30:minimum_variance:factor": {
+        "max_absolute_error": 2.3245294578089215e-16,
+        "passed": true
+      },
+      "2026-06-30:21:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:S": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2026-06-30:21:centered_rank": {
+        "observed": 20,
+        "upper_bound": 20
+      },
+      "2026-06-30:21:factor:gaussian": {
+        "max_absolute_error": 4.547473508864641e-13,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolio_prediction": {
+        "max_absolute_error": 1.3552527156068805e-19,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolio_ratio": {
+        "max_absolute_error": 3.9968028886505635e-15,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-06-30:21:factor:portfolios_checked": 43,
+      "2026-06-30:63:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:S": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2026-06-30:63:centered_rank": {
+        "observed": 62,
+        "upper_bound": 62
+      },
+      "2026-06-30:63:factor:gaussian": {
+        "max_absolute_error": 4.547473508864641e-13,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolio_prediction": {
+        "max_absolute_error": 1.3552527156068805e-19,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolio_ratio": {
+        "max_absolute_error": 2.4424906541753444e-15,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:factor:portfolios_checked": 43,
+      "2026-06-30:forecast:sample_252_jitter": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2026-06-30:minimum_variance_mix:sample_252_jitter": {
+        "max_absolute_error": 3.942447063254306e-12,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:gaussian": {
+        "max_absolute_error": 9.535206481814384e-05,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.0164395367051604e-19,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 4.884981308350689e-15,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-06-30:21:sample_252_jitter:portfolios_checked": 43,
+      "2026-06-30:63:sample_252_jitter:gaussian": {
+        "max_absolute_error": 5.18234446644783e-05,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 1.0164395367051604e-19,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 3.3306690738754696e-15,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:sample_252_jitter:portfolios_checked": 43,
+      "2026-06-30:forecast:ewma_252": {
+        "max_absolute_error": 3.469446951953614e-18,
+        "passed": true
+      },
+      "2026-06-30:minimum_variance_mix:ewma_252": {
+        "max_absolute_error": 5.8724466261983466e-12,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:gaussian": {
+        "max_absolute_error": 1.421431079506874e-05,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 1.7618285302889447e-19,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 4.218847493575595e-15,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-06-30:21:ewma_252:portfolios_checked": 43,
+      "2026-06-30:63:ewma_252:gaussian": {
+        "max_absolute_error": 1.1132098734378815e-05,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 1.7618285302889447e-19,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 2.886579864025407e-15,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:ewma_252:portfolios_checked": 43,
+      "2026-06-30:forecast:ledoit_wolf_252": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2026-06-30:minimum_variance_mix:ledoit_wolf_252": {
+        "max_absolute_error": 6.418476861114186e-17,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.4230153513872246e-19,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 5.329070518200751e-15,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-06-30:21:ledoit_wolf_252:portfolios_checked": 43,
+      "2026-06-30:63:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 1.4230153513872246e-19,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 2.6645352591003757e-15,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:ledoit_wolf_252:portfolios_checked": 43,
+      "2026-06-30:forecast:diagonal_ewma": {
+        "max_absolute_error": 3.469446951953614e-18,
+        "passed": true
+      },
+      "2026-06-30:minimum_variance:diagonal_ewma": {
+        "max_absolute_error": 2.7755575615628914e-17,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:gaussian": {
+        "max_absolute_error": 2.2737367544323206e-13,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 8.470329472543003e-22,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:21:diagonal_ewma:portfolios_checked": 43,
+      "2026-06-30:63:diagonal_ewma:gaussian": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 8.470329472543003e-22,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-06-30:63:diagonal_ewma:portfolios_checked": 43,
+      "2026-06-30:split_shares:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:split_cap:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:raw_price_units:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:split_shares:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:split_cap:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-06-30:raw_price_units:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "split_unit_examples": {
+        "NVDA": {
+          "asof": "2026-06-30",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 200.089996338,
+          "shares": 24200000000.0,
+          "shares_at_asof": 24200000000.0,
+          "market_cap": 4842177911379.6
+        },
+        "GOOGL": {
+          "asof": "2026-06-30",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 357.369995117,
+          "shares": 12116000000.0,
+          "shares_at_asof": 12116000000.0,
+          "market_cap": 4329894860837.572
+        }
+      }
+    },
+    "2026-08-31": {
+      "frozen_universe": {
+        "passed": true,
+        "n_stocks": 268
+      },
+      "2026-08-31:equal_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:cap_weights": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "exposure_asof": "2026-08-31",
+      "past_direct_start": "2025-08-29",
+      "past_direct_end": "2026-08-31",
+      "past_factor_end": "2026-08-31",
+      "2026-08-31:forecast:factor": {
+        "max_absolute_error": 1.5178830414797062e-18,
+        "passed": true
+      },
+      "2026-08-31:minimum_variance:factor": {
+        "max_absolute_error": 3.677613769070831e-16,
+        "passed": true
+      },
+      "2026-08-31:21:M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:S": {
+        "max_absolute_error": 8.673617379884035e-19,
+        "passed": true
+      },
+      "2026-08-31:21:centered_rank": {
+        "observed": 20,
+        "upper_bound": 20
+      },
+      "2026-08-31:21:factor:gaussian": {
+        "max_absolute_error": 6.821210263296962e-13,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolio_prediction": {
+        "max_absolute_error": 1.7618285302889447e-19,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolio_ratio": {
+        "max_absolute_error": 1.5543122344752192e-15,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-08-31:21:factor:portfolios_checked": 43,
+      "2026-08-31:forecast:sample_252_jitter": {
+        "max_absolute_error": 2.6020852139652106e-18,
+        "passed": true
+      },
+      "2026-08-31:minimum_variance_mix:sample_252_jitter": {
+        "max_absolute_error": 5.706754947071291e-12,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:gaussian": {
+        "max_absolute_error": 8.836714550852776e-05,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolio_prediction": {
+        "max_absolute_error": 9.486769009248164e-20,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolio_ratio": {
+        "max_absolute_error": 2.6645352591003757e-15,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-08-31:21:sample_252_jitter:portfolios_checked": 43,
+      "2026-08-31:forecast:ewma_252": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2026-08-31:minimum_variance_mix:ewma_252": {
+        "max_absolute_error": 4.535375547343179e-12,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:gaussian": {
+        "max_absolute_error": 4.553468897938728e-05,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolio_prediction": {
+        "max_absolute_error": 1.0842021724855044e-19,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolio_ratio": {
+        "max_absolute_error": 2.6645352591003757e-15,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-08-31:21:ewma_252:portfolios_checked": 43,
+      "2026-08-31:forecast:ledoit_wolf_252": {
+        "max_absolute_error": 3.469446951953614e-18,
+        "passed": true
+      },
+      "2026-08-31:minimum_variance_mix:ledoit_wolf_252": {
+        "max_absolute_error": 8.847089727481716e-17,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:gaussian": {
+        "max_absolute_error": 1.3642420526593924e-12,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolio_prediction": {
+        "max_absolute_error": 9.486769009248164e-20,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolio_ratio": {
+        "max_absolute_error": 1.3322676295501878e-15,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolio_gaussian": {
+        "max_absolute_error": 1.7763568394002505e-15,
+        "passed": true
+      },
+      "2026-08-31:21:ledoit_wolf_252:portfolios_checked": 43,
+      "2026-08-31:forecast:diagonal_ewma": {
+        "max_absolute_error": 1.734723475976807e-18,
+        "passed": true
+      },
+      "2026-08-31:minimum_variance:diagonal_ewma": {
+        "max_absolute_error": 2.6020852139652106e-18,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:gaussian": {
+        "max_absolute_error": 6.821210263296962e-13,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolio_prediction": {
+        "max_absolute_error": 8.470329472543003e-22,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolio_M": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolio_S": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolio_ratio": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolio_gaussian": {
+        "max_absolute_error": 3.552713678800501e-15,
+        "passed": true
+      },
+      "2026-08-31:21:diagonal_ewma:portfolios_checked": 43,
+      "2026-08-31:split_shares:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:split_cap:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:raw_price_units:NVDA": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:split_shares:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:split_cap:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "2026-08-31:raw_price_units:GOOGL": {
+        "max_absolute_error": 0.0,
+        "passed": true
+      },
+      "split_unit_examples": {
+        "NVDA": {
+          "asof": "2026-08-31",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 220.779998779,
+          "shares": 24100000000.0,
+          "shares_at_asof": 24100000000.0,
+          "market_cap": 5320797970573.9
+        },
+        "GOOGL": {
+          "asof": "2026-08-31",
+          "share_multiplier_through_asof": 1.0,
+          "raw_close": 339.350006104,
+          "shares": 12230000000.0,
+          "shares_at_asof": 12230000000.0,
+          "market_cap": 4150250574651.92
+        }
+      }
+    }
+  },
+  "failures": [],
+  "scope": "Independent source reconstruction at selected real origins; not certification of a prospective investment universe.",
+  "checks": {
+    "financial_dates": {
+      "provenance_cells_checked": 471447,
+      "filed_not_strictly_before_asof": 0
+    },
+    "regression_snapshots_not_strictly_prior": 0,
+    "export_scores": {
+      "matrix_rows_checked_for_split_and_comparability": 1500,
+      "split_label_violations": 0,
+      "method_comparability_violations": 0,
+      "boundary_score_rows_excluded": 20,
+      "summary_rows_checked": 20,
+      "portfolio_calibration_summary_rows_checked": 100,
+      "descriptive_score_rows_rebuilt_from_S": 45,
+      "descriptive_score_max_absolute_errors": {
+        "relative_frobenius": 0.0,
+        "offdiagonal_rmse": 1.0842021724855044e-19,
+        "offdiagonal_relative_frobenius": 4.440892098500626e-16,
+        "correlation_rmse": 2.7755575615628914e-17
+      },
+      "failures": []
+    }
+  },
+  "source_sha256": {
+    "config.json": "ae9cae702361d0dc52a884751106075f4e8e5786b811bd2192142bc0627b57fe",
+    "output/model_manifest.json": "61b7c9b9152f7048f9bddaae75a451abddc902d862a288762c22a84e9035ddac",
+    "output/evaluation_metadata.json": "7200aef40e10c16e4a3585454800004335089e7397b058d345eb5bffa1b676c4",
+    "output/factor_returns.csv": "80ac12c0172a584a03fe42d1f962a74a708ec062eee834c5aadd7847bc0f4bfc",
+    "output/residuals.csv.gz": "9427a3d34f8d6814aaed71a2ba908a3eaed6cdbf0da80e7ddbdcb4f7d8cba7c2",
+    "data/processed/monthly_exposures.csv.gz": "df16f83c051bf9dbe932eb03c900021056b28b4d68adc2c1d8217e70424dae70",
+    "data/processed/point_in_time_fundamentals.csv.gz": "550b7620a347f4446e7ec8feb56d6a153f4d2412ed6817a138d9aa0c20a9bbfa",
+    "output/matrices/2014-02-28.npz": "1fbc3455afc8a0699280d7e465015478c59fbb8e8096419470314a45569876c6",
+    "output/matrices/2020-03-31.npz": "62a15a70d35f6d6ec0ca05906bf25cd089683de9e1aff3033c2d667bd3a20376",
+    "output/matrices/2020-10-30.npz": "f2f7a21fcac7a86cf0075187d296b77b101268b4de37d46a38b0fe2073b82469",
+    "output/matrices/2026-06-30.npz": "9e367cd1e41b26bb6710149ab3c6bff309e635b34a74a0963cde8328c5926e14",
+    "output/matrices/2026-08-31.npz": "96ea0b14911528b18f85ca5dbbe906dffee9e773f0168e291bfe3f13c1c0cccd"
+  },
+  "interpretation": [
+    "M and S are average daily proxies over the window, not covariance of cumulative horizon returns.",
+    "Calibration ratios compare second moment to variance; near 1 does not establish all pairwise correlations.",
+    "Common portfolios compare forecasts on the same weights. Minimum-variance portfolios are method-specific allocations.",
+    "Current holdings selection, static sectors and revised Yahoo adjustments remain retrospective limitations.",
+    "Relative Frobenius/correlation errors transform noisy targets; Gaussian score is the direct covariance scoring comparison."
+  ]
+}

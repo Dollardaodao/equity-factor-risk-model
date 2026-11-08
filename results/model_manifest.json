@@ -1,0 +1,33 @@
+{
+  "fingerprints": {
+    "config.json": "ae9cae702361d0dc52a884751106075f4e8e5786b811bd2192142bc0627b57fe",
+    "universe.csv": "675c23dcc3ebe1e440a67375f43a3823eb1aa454bcc6809b2341c4cc479bd058",
+    "data/market_audit.json": "5fab6bfdadf6a92dff56e02e89cd8744939837fdc232523983e0d7f2fbfb6a57",
+    "code/descriptors.py": "61ac873cd06af156a79e1fe83c2ed3017e9c58c64fb690b2ed6d4c66e444118c",
+    "code/fundamentals.py": "a3273d32c7335123389e72e9abb36257bf2c4d2f05fcc6221a922024d01dfc7e",
+    "code/model.py": "c40f2d14856460d11d8a5fc24ccbed9e08cfeb6c9a4d7bb62d776b18fd74db1a",
+    "benchmark_daily_returns": "0309c40e1f775ea3d243719c765763bfa16929ddeeaa4e0c9f383685da9090f1",
+    "sec_cache_file_state": "75fb731ec217ecd72b28f6f49404fe9088a07ce5c65d2fd9c2aed251cd71722f"
+  },
+  "universe_stocks": 300,
+  "universe_size_buckets": {
+    "large": 100,
+    "mid": 100,
+    "small": 100
+  },
+  "estimated_days": 3417,
+  "attempted_days": 3939,
+  "first_estimated_date": "2013-03-01",
+  "last_estimated_date": "2026-09-30",
+  "daily_stocks_min": 95,
+  "daily_stocks_median": 198.0,
+  "daily_stocks_max": 271,
+  "median_weighted_r2": 0.34947035953224537,
+  "max_condition": 35.004808099064306,
+  "max_constraint_error": 2.9642765022111495e-17,
+  "max_mimicking_exposure_error": 6.702971511174383e-15,
+  "elapsed_seconds": 90.94,
+  "price_sources": {
+    "Yahoo Finance public chart daily": 299
+  }
+}

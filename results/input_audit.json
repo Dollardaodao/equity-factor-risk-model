@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "checks": {
+    "duplicate_exposure_rows": 0,
+    "nonpositive_caps_in_complete_rows": 0,
+    "complete_exposure_nonfinite": 0,
+    "future_financial_filed": 0,
+    "future_shares_filed": 0,
+    "future_nested_provenance": 0,
+    "cap_identity_errors": 0,
+    "return_exposure_date_not_strictly_prior": 0
+  },
+  "provenance_cells_checked": 471447,
+  "unique_provenance_strings": 51898,
+  "rows": 56700,
+  "months": 189,
+  "missing_total_shares_symbols": [
+    "CARG",
+    "CMCSA",
+    "CWST",
+    "META",
+    "NYT",
+    "PBF",
+    "SEI",
+    "SPHR",
+    "TAP",
+    "TTD"
+  ],
+  "failures": {}
+}

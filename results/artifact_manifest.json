@@ -1,0 +1,99 @@
+{
+  "study": "Expanded U.S. equity covariance walk-forward experiment",
+  "data_cutoff": "2026-09-30",
+  "holdings_snapshot": "2026-11-03",
+  "latest_paired_origin": "2026-08-31",
+  "source": "Frozen validated local study outputs. Analytical files and figures copied byte-for-byte; equal_weight_risk.csv is an exact row subset.",
+  "matrix_orders": "CSV matrices use latest_matrix_pair.json symbols; NPZ arrays use their own symbols array and latest_forecast_archive.json metadata.",
+  "complete_archive": "Full historical matrices and vendor/API caches can be regenerated locally and are excluded from this repository.",
+  "files": {
+    "docs/figures/average_factor_returns.png": {
+      "sha256": "94d12ac9563cffaafcec064166148c4bee30232cb44539021dcab8c469708184",
+      "bytes": 171073
+    },
+    "docs/figures/forecast_realized_correlation.png": {
+      "sha256": "c04bbdd9d3d02eae55fc778f2ec7bf45e2f29cd8d635f4c930596e8968f2f036",
+      "bytes": 807035
+    },
+    "docs/figures/portfolio_calibration.png": {
+      "sha256": "6024dd3c4b9f7c700b18711bbc1887f93aacd7771beaca6f56c676d27230fbea",
+      "bytes": 91021
+    },
+    "docs/figures/predicted_vs_realized_risk.png": {
+      "sha256": "e25e2b80f21debeb41af66005856654670e26cb38d4999763e9cc0eeced3bfd5",
+      "bytes": 168475
+    },
+    "results/equal_weight_risk.csv": {
+      "sha256": "9a11429f8ad12811bfed238a55e6eb2fddee8f475075012e2ebce79528507779",
+      "bytes": 178393
+    },
+    "results/evaluation_metadata.json": {
+      "sha256": "7200aef40e10c16e4a3585454800004335089e7397b058d345eb5bffa1b676c4",
+      "bytes": 3280
+    },
+    "results/experiment_summary.json": {
+      "sha256": "8ff097ff372349b5c84111109a0d1052984ee7c0938f7e29dca87f4d4a011010",
+      "bytes": 5860
+    },
+    "results/factor_returns.csv": {
+      "sha256": "80ac12c0172a584a03fe42d1f962a74a708ec062eee834c5aadd7847bc0f4bfc",
+      "bytes": 1405009
+    },
+    "results/input_audit.json": {
+      "sha256": "2365677884befda3df2ec7abc0bb7163bad3a6a17038e503b891e69b3da1b0ac",
+      "bytes": 621
+    },
+    "results/latest_covariance_difference.csv": {
+      "sha256": "69b2e12669426be1641ac54c41b624dc88f9f88e08b69374b3978019c5463249",
+      "bytes": 1627212
+    },
+    "results/latest_forecast_archive.json": {
+      "sha256": "affab86a3f680c9a5349ee7d791fb6189c554711fdfa22d9f69ea172a4464015",
+      "bytes": 6024
+    },
+    "results/latest_forecast_archive.npz": {
+      "sha256": "96ea0b14911528b18f85ca5dbbe906dffee9e773f0168e291bfe3f13c1c0cccd",
+      "bytes": 3338963
+    },
+    "results/latest_forecast_covariance.csv": {
+      "sha256": "b89ea6424657b192061a3d6c7ff54ad7bdd043e52859ff3620e962677d4387f0",
+      "bytes": 1616519
+    },
+    "results/latest_matrix_pair.json": {
+      "sha256": "debeb6da1b7059e29ed82aa2441a0d6f1fa103daeb93ee0df083c7e9c69e6cce",
+      "bytes": 3427
+    },
+    "results/latest_realized_covariance.csv": {
+      "sha256": "46c4cb504c9588efd47c3db9aae08fb33bd54eaddbbfc49e047d937cc01b7196",
+      "bytes": 1637829
+    },
+    "results/latest_realized_second_moment.csv": {
+      "sha256": "d50d274e3b335399c6a0d095773349f890925e9200a3cc4f43974e43fa886bcf",
+      "bytes": 1635508
+    },
+    "results/matrix_scores.csv": {
+      "sha256": "3aeb770f1d8ec715d068404f3b0d7f6265077df82cf5ac1927c7cd579165d675",
+      "bytes": 322195
+    },
+    "results/model_manifest.json": {
+      "sha256": "61b7c9b9152f7048f9bddaae75a451abddc902d862a288762c22a84e9035ddac",
+      "bytes": 1391
+    },
+    "results/oos_integrity_audit.json": {
+      "sha256": "79867cdaf29a7ceb944d349cda7dc7499d5ff35636307e993f09ccf81294d568",
+      "bytes": 58434
+    },
+    "results/origins.csv": {
+      "sha256": "c5a2f0de8dd8d5c7da9760f12820493f7f4eefc17b5db9d366647a0b0fe7631f",
+      "bytes": 30442
+    },
+    "results/portfolio_summary.csv": {
+      "sha256": "f00e400a05eb6e80ea2a7e871fafe693014d76070565533aca7eaec5399931f2",
+      "bytes": 23246
+    },
+    "results/summary.csv": {
+      "sha256": "82d72277e447a521253da947f405ed8da657869692a62b0f3e534d9f55f1c943",
+      "bytes": 2796
+    }
+  }
+}
