@@ -1,0 +1,7 @@
+# Direct dependency versions recorded in the verified Python 3.12 environment.
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+curl-cffi==0.17.0
