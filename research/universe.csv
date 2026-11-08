@@ -1,0 +1,301 @@
+symbol,cik,sector,size_bucket,source_fund,source_date,fund_weight,name,cik_hint_name
+GOOGL,0001652044,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",2.52,ALPHABET CLASS A,Alphabet Inc.
+AMZN,0001018724,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",3.77,AMAZON.COM INC,Amazon Com Inc
+WMT,0000104169,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.85,WALMART,Walmart Inc.
+OKE,0001039684,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.09,ONEOK,Oneok Inc /New/
+LLY,0000059478,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",1.73,ELI LILLY,Eli Lilly & Co
+GE,0000040545,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.51,GE AEROSPACE,General Electric Co
+LIN,0001707925,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.36,LINDE PLC,Linde Plc
+NVDA,0001045810,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",7.66,NVIDIA,Nvidia Corp
+NEE,0000753308,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.27,NEXTERA ENERGY,Nextera Energy Inc
+META,0001326801,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",2.1,META PLATFORMS CLASS A,"Meta Platforms, Inc."
+TSLA,0001318605,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",1.72,TESLA INC,"Tesla, Inc."
+COST,0000909832,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.69,COSTCO WHOLESALE CORP,Costco Wholesale Corp /New
+CVX,0000093410,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.68,CHEVRON,Chevron Corp
+JNJ,0000200406,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.98,JOHNSON & JOHNSON,Johnson & Johnson
+CAT,0000018230,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.44,CATERPILLAR INC,Caterpillar Inc
+NEM,0001164727,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.17,NEWMONT,Newmont Corp /De/
+AAPL,0000320193,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",7.42,APPLE,Apple Inc.
+SO,0000092122,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.17,SOUTHERN,Southern Co
+NFLX,0001065280,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.4,NETFLIX,Netflix Inc
+HD,0000354950,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.51,HOME DEPOT,"Home Depot, Inc."
+PG,0000080424,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.58,PROCTER & GAMBLE,Procter & Gamble Co
+COP,0001163165,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.27,CONOCOPHILLIPS,Conocophillips
+ABBV,0001551152,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.77,ABBVIE,Abbvie Inc.
+RTX,0000101829,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.42,RTX,Rtx Corp
+FCX,0000831259,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.14,FREEPORT MCMORAN INC,Freeport-Mcmoran Inc
+MSFT,0000789019,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",5.93,MICROSOFT,Microsoft Corp
+DUK,0001326160,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.15,DUKE ENERGY CORP,Duke Energy Corp
+DIS,0001744489,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.3,WALT DISNEY,Walt Disney Co
+MCD,0000063908,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.29,MCDONALDS CORP,Mcdonalds Corp
+KO,0000021344,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.56,COCA-COLA,Coca Cola Co
+MPC,0001510295,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.18,MARATHON PETROLEUM,Marathon Petroleum Corp
+UNH,0000731766,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.56,UNITEDHEALTH GROUP,Unitedhealth Group Inc
+GEV,0001996810,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.37,GE VERNOVA,Ge Vernova Inc.
+ECL,0000031462,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,ECOLAB,Ecolab Inc.
+AVGO,0001730168,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",2.42,BROADCOM INC,Broadcom Inc.
+CEG,0001868275,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.13,CONSTELLATION ENERGY CORP,Constellation Energy Corp
+VZ,0000732712,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.29,VERIZON COMMUNICATIONS INC,Verizon Communications Inc
+TJX,0000109198,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.23,TJX,Tjx Companies Inc /De/
+PM,0001413329,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.5,PHILIP MORRIS INTERNATIONAL,Philip Morris International Inc.
+VLO,0001035002,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.17,VALERO ENERGY CORP,Valero Energy Corp/Tx
+MRK,0000310158,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.55,MERCK & CO INC,"Merck & Co., Inc."
+UNP,0000100885,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.28,UNION PACIFIC,Union Pacific Corp
+SHW,0000089800,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,SHERWIN WILLIAMS,Sherwin Williams Co
+MU,0000723125,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",1.48,MICRON TECHNOLOGY,Micron Technology Inc
+AEP,0000004904,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.11,AMERICAN ELECTRIC POWER INC,American Electric Power Co Inc
+T,0000732717,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.22,AT&T,At&T Inc.
+BKNG,0001075531,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.18,BOOKING HOLDINGS,Booking Holdings Inc.
+PEP,0000077476,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.29,PEPSICO,Pepsico Inc
+PSX,0001534701,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.17,PHILLIPS 66,Phillips 66
+TMO,0000097745,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.4,THERMO FISHER SCIENTIFIC,Thermo Fisher Scientific Inc.
+DE,0000315189,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.26,DEERE,Deere & Co
+APD,0000002969,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.11,AIR PRODUCTS AND CHEMICALS,"Air Products & Chemicals, Inc."
+AMD,0000002488,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",1.21,ADVANCED MICRO DEVICES,Advanced Micro Devices Inc
+D,0000715957,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.09,DOMINION ENERGY,"Dominion Energy, Inc"
+CMCSA,0001166691,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.13,COMCAST CLASS A,Comcast Corp
+LOW,0000060667,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.18,LOWES COMPANIES INC,Lowes Companies Inc
+MO,0000764180,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.2,ALTRIA GROUP INC,"Altria Group, Inc."
+WMB,0000107263,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.14,WILLIAMS,"Williams Companies, Inc."
+AMGN,0000318154,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.38,AMGEN INC,Amgen Inc
+ETN,0001551182,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.23,EATON PLC,Eaton Corp Plc
+NUE,0000073309,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,NUCOR,Nucor Corp
+CSCO,0000858877,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",0.62,CISCO SYSTEMS INC,"Cisco Systems, Inc."
+SRE,0001032208,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.09,SEMPRA,Sempra
+TMUS,0001283699,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.11,T MOBILE US INC,"T-Mobile Us, Inc."
+SBUX,0000829224,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.18,STARBUCKS CORP,Starbucks Corp
+MDLZ,0001103982,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.13,MONDELEZ INTERNATIONAL CLASS A,"Mondelez International, Inc."
+SLB,0000087347,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,SLB,Schlumberger Limited/Nv
+GILD,0000882095,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.32,GILEAD SCIENCES,"Gilead Sciences, Inc."
+BA,0000012927,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.21,BOEING,Boeing Co
+CRH,0000849395,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,CRH PUBLIC LIMITED PLC,Crh Public Ltd Co
+PLTR,0001321655,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",0.62,PALANTIR TECHNOLOGIES CLASS A,Palantir Technologies Inc.
+XEL,0000072903,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.08,XCEL ENERGY INC,Xcel Energy Inc
+APP,0001751008,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,APPLOVIN CLASS A,Applovin Corp
+MAR,0001048286,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.14,MARRIOTT INTERNATIONAL CLASS A,Marriott International Inc /Md/
+CL,0000021665,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,COLGATE-PALMOLIVE,Colgate Palmolive Co
+EOG,0000821189,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,EOG RESOURCES,Eog Resources Inc
+ABT,0000001800,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.29,ABBOTT LABORATORIES,Abbott Laboratories
+UBER,0001543151,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.21,UBER TECHNOLOGIES,"Uber Technologies, Inc"
+VMC,0001396009,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.06,VULCAN MATERIALS,Vulcan Materials Co
+AMAT,0000006951,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",0.46,APPLIED MATERIAL INC,Applied Materials Inc /De
+ETR,0000065984,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.08,ENTERGY CORP,Entergy Corp /De/
+TTWO,0000946581,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.05,TAKE TWO INTERACTIVE SOFTWARE,Take Two Interactive Software Inc
+HLT,0001585689,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.13,HILTON WORLDWIDE HOLDINGS,Hilton Worldwide Holdings Inc.
+TGT,0000027419,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.11,TARGET CORP,Target Corp
+TRGP,0001389170,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,TARGA RESOURCES,Targa Resources Corp.
+PFE,0000078003,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.26,PFIZER,Pfizer Inc
+LMT,0000936468,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.2,LOCKHEED MARTIN,Lockheed Martin Corp
+MLM,0000916076,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.05,MARTIN MARIETTA MATERIALS,Martin Marietta Materials Inc
+INTC,0000050863,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",0.46,INTEL CORPORATION,Intel Corp
+VST,0001692819,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.07,VISTRA,Vistra Corp.
+LYV,0001335258,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.04,LIVE NATION ENTERTAINMENT,"Live Nation Entertainment, Inc."
+GM,0001467858,ConsumerDiscretionary,large,IVV,"Fund Holdings as of Nov 03, 2026",0.12,GENERAL MOTORS,General Motors Co
+KMB,0000055785,ConsumerStaples,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,KIMBERLY CLARK,Kimberly Clark Corp
+KMI,0001506307,Energy,large,IVV,"Fund Holdings as of Nov 03, 2026",0.1,KINDER MORGAN,"Kinder Morgan, Inc."
+ISRG,0001035267,Healthcare,large,IVV,"Fund Holdings as of Nov 03, 2026",0.24,INTUITIVE SURGICAL,Intuitive Surgical Inc
+ADP,0000008670,Industrials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.18,AUTOMATIC DATA PROCESSING INC,Automatic Data Processing Inc
+STLD,0001022671,Materials,large,IVV,"Fund Holdings as of Nov 03, 2026",0.05,STEEL DYNAMICS INC,Steel Dynamics Inc
+LRCX,0000707549,Technology,large,IVV,"Fund Holdings as of Nov 03, 2026",0.44,LAM RESEARCH,Lam Research Corp
+ED,0001047862,Utilities,large,IVV,"Fund Holdings as of Nov 03, 2026",0.07,CONSOLIDATED EDISON,Consolidated Edison Inc
+OMC,0000029989,Communication,large,IVV,"Fund Holdings as of Nov 03, 2026",0.03,OMNICOM GROUP INC,Omnicom Group Inc.
+ROKU,0001428439,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.61,ROKU CLASS A,"Roku, Inc"
+SN,0001957132,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.51,SHARKNINJA,"Sharkninja, Inc."
+USFD,0001665918,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.64,US FOODS HOLDING,Us Foods Holding Corp.
+FTI,0001681459,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.76,TECHNIPFMC PLC,Technipfmc Plc
+UTHR,0001082554,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.75,UNITED THERAPEUTICS,United Therapeutics Corp
+ATI,0001018963,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.71,ATI,Ati Inc
+RS,0000861884,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.66,RELIANCE STEEL & ALUMINUM,"Reliance, Inc."
+ENTG,0001101302,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.68,ENTEGRIS INC,Entegris Inc
+TLN,0001622536,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.46,TALEN ENERGY,Talen Energy Corp
+NYT,0000071691,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.28,NEW YORK TIMES CLASS A,New York Times Co
+SGI,0001206264,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.44,SOMNIGROUP INTERNATIONAL,Somnigroup International Inc.
+PFGC,0001618673,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.44,PERFORMANCE FOOD GROUP,Performance Food Group Co
+PR,0001658566,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.58,PERMIAN RESOURCES CLASS A,Permian Resources Corp
+THC,0000070318,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.62,TENET HEALTHCARE CORP,Tenet Healthcare Corp
+XPO,0001166003,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.65,XPO,"Xpo, Inc."
+RGLD,0000085535,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.57,ROYAL GOLD,Royal Gold Inc
+SNX,0001177394,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.53,TD SYNNEX,Td Synnex Corp
+WTRG,0000078128,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.36,ESSENTIAL UTILITIES INC,"Essential Utilities, Inc."
+PINS,0001506293,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.27,PINTEREST CLASS A,"Pinterest, Inc."
+BURL,0001579298,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.44,BURLINGTON STORES,"Burlington Stores, Inc."
+BJ,0001531152,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.41,BJS WHOLESALE CLUB HOLDINGS,"Bj'S Wholesale Club Holdings, Inc."
+OVV,0001792580,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.53,OVINTIV,Ovintiv Inc.
+ROIV,0001635088,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.57,ROIVANT SCIENCES LTD,Roivant Sciences Ltd.
+NVT,0001720635,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.61,NVENT ELECTRIC PLC,Nvent Electric Plc
+CDE,0000215466,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.4,COEUR MINING,"Coeur Mining, Inc."
+NTNX,0001618732,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.51,NUTANIX CLASS A,"Nutanix, Inc."
+OGE,0001021635,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.29,OGE ENERGY,Oge Energy Corp.
+SIRI,0000908937,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.17,SIRIUSXM HOLDINGS,Sirius Xm Holdings Inc.
+ARMK,0001584509,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.42,ARAMARK,Aramark
+COKE,0000317540,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.34,COCA COLA CONSOLIDATED,"Coca-Cola Consolidated, Inc."
+DINO,0001915657,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.51,HF SINCLAIR,Hf Sinclair Corp
+EXEL,0000939767,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.52,EXELIXIS INC,"Exelixis, Inc."
+WWD,0000108312,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.57,WOODWARD,"Woodward, Inc."
+RPM,0000110621,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.39,RPM INTERNATIONAL INC,Rpm International Inc/De/
+MTSI,0001493594,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.47,MACOM TECHNOLOGY SOLUTIONS,"Macom Technology Solutions Holdings, Inc."
+UGI,0000884614,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.24,UGI,Ugi Corp /Pa/
+NXST,0001142417,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.15,NEXSTAR MEDIA GROUP INC,"Nexstar Media Group, Inc."
+TOL,0000794170,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.4,TOLL BROTHERS INC,"Toll Brothers, Inc."
+CART,0001579091,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.27,MAPLEBEAR,Maplebear Inc.
+RRC,0000315852,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.37,RANGE RESOURCES,Range Resources Corp
+NBIX,0000914475,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.49,NEUROCRINE BIOSCIENCES,Neurocrine Biosciences Inc
+CW,0000026324,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.53,CURTISS WRIGHT,Curtiss Wright Corp
+CCK,0001219601,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.38,CROWN HOLDINGS INC,"Crown Holdings, Inc."
+DOCU,0001261333,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.45,DOCUSIGN,"Docusign, Inc."
+IDA,0001057877,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.24,IDACORP,Idacorp Inc
+WMG,0001319161,Communication,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.13,WARNER MUSIC GROUP CLASS A,Warner Music Group Corp.
+FIVE,0001177609,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.38,FIVE BELOW,"Five Below, Inc"
+DAR,0000916540,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.25,DARLING INGREDIENTS,Darling Ingredients Inc.
+DTM,0001842022,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.36,DT MIDSTREAM,"Dt Midstream, Inc."
+MEDP,0001668397,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.44,MEDPACE HOLDINGS,"Medpace Holdings, Inc."
+ITT,0000216228,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.53,ITT INC,Itt Inc.
+AA,0001675149,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.3,ALCOA CORP,Alcoa Corp
+LSCC,0000855658,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.44,LATTICE SEMICONDUCTOR,Lattice Semiconductor Corp
+NFG,0000070145,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.22,NATIONAL FUEL GAS,National Fuel Gas Co
+TXRH,0001289460,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.35,TEXAS ROADHOUSE INC,"Texas Roadhouse, Inc."
+ELF,0001600033,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.19,ELF BEAUTY,"E.L.F. Beauty, Inc."
+AR,0001433270,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.36,ANTERO RESOURCES,Antero Resources Corp
+JAZZ,0001232524,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.43,JAZZ PHARMACEUTICALS PLC,Jazz Pharmaceuticals Plc
+APG,0001796209,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.52,API GROUP,Api Group Corp
+HL,0000719413,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.26,HECLA MINING,Hecla Mining Co/De/
+MANH,0001056696,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.43,MANHATTAN ASSOCIATES,Manhattan Associates Inc
+SWX,0001692115,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.2,SOUTHWEST GAS HOLDINGS,"Southwest Gas Holdings, Inc."
+BWA,0000908255,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.31,BORGWARNER,Borgwarner Inc
+INGR,0001046257,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.18,INGREDION INC,Ingredion Inc
+NOV,0001021860,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.19,NOV,Nov Inc.
+HALO,0001159036,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.42,HALOZYME THERAPEUTICS,"Halozyme Therapeutics, Inc."
+RBA,0001046102,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.5,RB GLOBAL,Rb Global Inc.
+ATR,0000896622,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.26,APTARGROUP,"Aptargroup, Inc."
+MKSI,0001049502,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.4,MKS,Mks Instruments Inc
+BKH,0001130464,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.18,BLACK HILLS CORP,Black Hills Corp /Sd/
+SCI,0000089089,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.3,SERVICE,Service Corp International
+CELH,0001341766,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.16,CELSIUS HOLDINGS,"Celsius Holdings, Inc."
+CHRD,0001486159,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.23,CHORD ENERGY,Chord Energy Corp
+GKOS,0001192448,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.4,GLAUKOS,Glaukos Corp
+WCC,0000929008,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.5,WESCO INTERNATIONAL,Wesco International Inc
+CLF,0000764065,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.23,CLEVELAND CLIFFS INC,Cleveland-Cliffs Inc.
+DT,0001773383,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.39,DYNATRACE INC,"Dynatrace, Inc."
+ORA,0001296445,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.17,ORMAT TECH INC,"Ormat Technologies, Inc."
+GME,0001326380,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.29,GAMESTOP CLASS A,Gamestop Corp.
+SFM,0001575515,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.14,SPROUTS FARMERS MARKET INC,"Sprouts Farmers Market, Inc."
+PBF,0001534504,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.22,PBF ENERGY CLASS A,Pbf Energy Inc.
+EHC,0000785161,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.39,ENCOMPASS HEALTH,Encompass Health Corp
+RBC,0001324948,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.45,RBC BEARINGS,Rbc Bearings Inc
+CTVA,0001755672,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.23,CORTEVA,"Corteva, Inc."
+GWRE,0001528396,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.39,GUIDEWIRE SOFTWARE,"Guidewire Software, Inc."
+TXNM,0001108426,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.17,TXNM ENERGY INC,Txnm Energy Inc
+EAT,0000703351,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.26,BRINKER INTERNATIONAL INC,"Brinker International, Inc"
+ACI,0001646972,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.13,ALBERTSONS COMPANY CLASS A,"Albertsons Companies, Inc."
+AM,0001623925,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.2,ANTERO MIDSTREAM,Antero Midstream Corp
+PEN,0001321732,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.37,PENUMBRA,Penumbra Inc
+LECO,0000059527,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.45,LINCOLN ELECTRIC HOLDINGS,Lincoln Electric Holdings Inc
+AXTA,0001616862,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.22,AXALTA COATING SYSTEMS,Axalta Coating Systems Ltd.
+FN,0001408710,Technology,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.38,FABRINET,Fabrinet
+NJR,0000356309,Utilities,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.16,NEW JERSEY RESOURCES CORP,New Jersey Resources Corp
+DKS,0001089063,ConsumerDiscretionary,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.26,DICKS SPORTING,"Dick'S Sporting Goods, Inc."
+POST,0001530950,ConsumerStaples,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.09,POST HOLDINGS,"Post Holdings, Inc."
+MTDR,0001520006,Energy,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.19,MATADOR RESOURCES,Matador Resources Co
+ELAN,0001739104,Healthcare,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.36,ELANCO ANIMAL HEALTH,Elanco Animal Health Inc
+CSL,0000790051,Industrials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.45,CARLISLE COMPANIES,Carlisle Companies Inc
+CMC,0000022444,Materials,mid,IJH,"Fund Holdings as of Nov 03, 2026",0.21,COMMERCIAL METALS,Commercial Metals Co
+MTCH,0000891103,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.5,MATCH GROUP INC,"Match Group, Inc."
+LTH,0001869198,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.48,LIFE TIME GROUP HOLDINGS,"Life Time Group Holdings, Inc."
+LW,0001679273,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.43,LAMB WESTON HOLDINGS,"Lamb Weston Holdings, Inc."
+SM,0000893538,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.5,SM ENERGY,Sm Energy Co
+PTGX,0001377121,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.52,PROTAGONIST THERAPEUTICS,"Protagonist Therapeutics, Inc"
+PAYC,0001590955,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.58,PAYCOM SOFTWARE,"Paycom Software, Inc."
+ESI,0001590714,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.46,ELEMENT SOLUTIONS INC,Element Solutions Inc
+VSAT,0000797721,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.59,VIASAT INC,Viasat Inc
+CWEN,0001567683,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.24,CLEARWAY ENERGY INC CLASS C,"Clearway Energy, Inc."
+TTD,0001671933,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.31,TRADE DESK CLASS A,"Trade Desk, Inc."
+ETSY,0001370637,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.44,ETSY,Etsy Inc
+CAG,0000023217,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.39,CONAGRA BRANDS,Conagra Brands Inc.
+MGY,0001698990,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.33,MAGNOLIA OIL GAS CORP CLASS A,Magnolia Oil & Gas Corp
+TGTX,0001001316,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.49,TG THERAPEUTICS,"Tg Therapeutics, Inc."
+AWI,0000007431,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.41,ARMSTRONG WORLD INDUSTRIES,Armstrong World Industries Inc
+EMN,0000915389,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.42,EASTMAN CHEMICAL,Eastman Chemical Co
+EPAM,0001352010,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.41,EPAM SYSTEMS,"Epam Systems, Inc."
+MDU,0000067716,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.23,MDU RESOURCES GROUP,Mdu Resources Group Inc
+LUMN,0000018926,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.26,LUMEN TECHNOLOGIES,"Lumen Technologies, Inc."
+KMX,0001170010,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.43,CARMAX INC,Carmax Inc
+TAP,0000024545,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.38,MOLSON COORS BREWING CLASS B,Molson Coors Beverage Co
+NE,0001895262,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.32,NOBLE CORPORATION PLC,Noble Corp Plc
+ALKS,0001520262,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.44,ALKERMES,Alkermes Plc.
+FSS,0000277509,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.41,FEDERAL SIGNAL CORP,Federal Signal Corp /De/
+BCPC,0000009326,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.32,BALCHEM,Balchem Corp
+BOX,0001372612,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.34,BOX INC CLASS A,Box Inc
+AWR,0001056903,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.2,AMERICAN STATES WATER,American States Water Co
+IRDM,0001418819,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.26,IRIDIUM COMMUNICATIONS,Iridium Communications Inc.
+POOL,0000945841,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.43,POOL,Pool Corp
+CPB,0000016732,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.24,CAMPBELL SOUP,Campbell'S Co
+AROC,0001389050,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.31,ARCHROCK,"Archrock, Inc."
+LGND,0000886163,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.36,LIGAND PHARMACEUTICALS,Ligand Pharmaceuticals Inc
+BLDR,0001316835,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.39,BUILDERS FIRSTSOURCE INC,"Builders Firstsource, Inc."
+CE,0001306830,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.29,CELANESE CORP,Celanese Corp
+ACIW,0000935036,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.34,ACI WORLDWIDE,"Aci Worldwide, Inc."
+OTTR,0001466593,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.2,OTTER TAIL,Otter Tail Corp
+CNK,0001385280,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.22,CINEMARK HOLDINGS INC,"Cinemark Holdings, Inc."
+MHK,0000851968,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.42,MOHAWK INDUSTRIES,Mohawk Industries Inc
+PSMT,0001041803,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.23,PRICESMART,Pricesmart Inc
+KGS,0001767042,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.27,KODIAK GAS SERVICES INC,"Kodiak Gas Services, Inc."
+TFX,0000096943,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.34,TELEFLEX,Teleflex Inc
+MATX,0000003453,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.38,MATSON INC,"Matson, Inc."
+SXT,0000310142,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.28,SENSIENT TECHNOLOGIES,Sensient Technologies Corp
+PLXS,0000785786,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.33,PLEXUS CORP,Plexus Corp
+CPK,0000019745,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.19,CHESAPEAKE UTILITIES,Chesapeake Utilities Corp
+TDS,0001051512,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.2,TELEPHONE AND DATA SYSTEMS,Telephone & Data Systems Inc /De/
+FTDR,0001727263,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.35,FRONTDOOR INC,"Frontdoor, Inc."
+CHEF,0001517175,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.21,CHEFS WAREHOUSE INC,"Chefs' Warehouse, Inc."
+SEI,0001697500,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.26,SOLARIS ENERGY INFRASTRUCTURE INC,"Solaris Energy Infrastructure, Inc."
+SUPN,0001356576,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.33,SUPERNUS,"Supernus Pharmaceuticals, Inc."
+ZWS,0001439288,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.37,ZURN ELKAY WATER SOLUTIONS CORP,Zurn Elkay Water Solutions Corp
+MTRN,0001104657,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.27,MATERION,Materion Corp
+RNG,0001384905,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.33,RINGCENTRAL CLASS A,"Ringcentral, Inc."
+AVA,0000104918,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.18,AVISTA,Avista Corp
+SPHR,0001795250,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.16,SPHERE ENTERTAINMENT CLASS A,Sphere Entertainment Co.
+CZR,0001590895,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.34,CAESARS ENTERTAINMENT INC,"Caesars Entertainment, Inc."
+FRPT,0001611647,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.19,FRESHPET,"Freshpet, Inc."
+WHD,0001699136,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.25,CACTUS CLASS A,"Cactus, Inc."
+PTCT,0001070081,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.32,PTC THERAPEUTICS,"Ptc Therapeutics, Inc."
+ESE,0000866706,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.37,ESCO TECHNOLOGIES,Esco Technologies Inc
+HCC,0001691303,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.19,WARRIOR MET COAL INC,"Warrior Met Coal, Inc."
+MXL,0001288469,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.31,MAXLINEAR,"Maxlinear, Inc"
+CWT,0001035201,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.17,CALIFORNIA WATER SERVICE GROUP,California Water Service Group
+CARG,0001494259,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.14,CARGURUS CLASS A,"Cargurus, Inc."
+ADT,0001703056,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.3,ADT INC,Adt Inc.
+CALM,0000016160,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.17,CAL MAINE FOODS,Cal-Maine Foods Inc
+DK,0001694426,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.25,DELEK US HOLDINGS INC,"Delek Us Holdings, Inc."
+MMSI,0000856982,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.29,MERIT MEDICAL SYSTEMS INC,Merit Medical Systems Inc
+LYFT,0001759509,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.36,LYFT CLASS A,"Lyft, Inc."
+HWKN,0000046250,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.18,HAWKINS INC,Hawkins Inc
+PI,0001114995,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.3,IMPINJ,Impinj Inc
+MGEE,0001161728,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.16,MGE ENERGY,Mge Energy Inc
+WLY,0000107140,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.11,JOHN WILEY AND SONS CLASS A,"John Wiley & Sons, Inc."
+CAKE,0000887596,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.29,CHEESECAKE FACTORY INC,Cheesecake Factory Inc
+COCO,0001482981,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.17,THE VITA COCO COMPANY,"Vita Coco Company, Inc."
+INSW,0001679049,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.25,INTERNATIONAL SEAWAYS,"International Seaways, Inc."
+CON,0002014596,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.27,CONCENTRA GROUP HOLDINGS PARENT IN,"Concentra Group Holdings Parent, Inc."
+JBTM,0001433660,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.35,JBT MAREL,Jbt Marel Corp
+FUL,0000039368,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.15,HB FULLER,Fuller H B Co
+TENB,0001660280,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.29,TENABLE HOLDINGS INC,"Tenable Holdings, Inc."
+NWN,0001733998,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.12,NORTHWEST NATURAL HOLDING COMPANY,Northwest Natural Holding Co
+DV,0001819928,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.1,DOUBLEVERIFY HOLDINGS,"Doubleverify Holdings, Inc."
+URBN,0000912615,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.28,URBAN OUTFITTERS,Urban Outfitters Inc
+WDFC,0000105132,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.17,WD-40,Wd 40 Co
+PTEN,0000889900,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.25,PATTERSON UTI ENERGY INC,Patterson Uti Energy Inc
+RDNT,0000790526,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.24,RADNET,"Radnet, Inc."
+GTES,0001718512,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.35,GATES INDUSTRIAL PLC,Gates Industrial Corp Plc
+IOSP,0001054905,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.14,INNOSPEC INC,Innospec Inc.
+NSIT,0000932696,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.28,INSIGHT ENTERPRISES INC,Insight Enterprises Inc
+HE,0000354707,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.08,HAWAIIAN ELECTRIC INDUSTRIES,Hawaiian Electric Industries Inc
+ZD,0001084048,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.09,ZIFF DAVIS INC,"Ziff Davis, Inc."
+LKQ,0001065696,ConsumerDiscretionary,small,IJR,"Fund Holdings as of Nov 03, 2026",0.28,LKQ CORP,Lkq Corp
+UNFI,0001020859,ConsumerStaples,small,IJR,"Fund Holdings as of Nov 03, 2026",0.16,UNITED NATURAL FOODS INC,United Natural Foods Inc
+CRC,0001609253,Energy,small,IJR,"Fund Holdings as of Nov 03, 2026",0.24,CALIFORNIA RESOURCES,California Resources Corp
+ITGR,0001114483,Healthcare,small,IJR,"Fund Holdings as of Nov 03, 2026",0.24,INTEGER HOLDINGS CORP,Integer Holdings Corp
+CWST,0000911177,Industrials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.34,CASELLA WASTE SYSTEMS CLASS A,Casella Waste Systems Inc
+NGVT,0001653477,Materials,small,IJR,"Fund Holdings as of Nov 03, 2026",0.14,INGEVITY,Ingevity Corp
+YOU,0001856314,Technology,small,IJR,"Fund Holdings as of Nov 03, 2026",0.26,CLEAR SECURE CLASS A,"Clear Secure, Inc."
+UTL,0000755001,Utilities,small,IJR,"Fund Holdings as of Nov 03, 2026",0.06,UNITIL CORP,Unitil Corp
+QNST,0001117297,Communication,small,IJR,"Fund Holdings as of Nov 03, 2026",0.06,QUINSTREET INC,"Quinstreet, Inc"

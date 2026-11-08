@@ -1,0 +1,31 @@
+{
+  "policy": "Screen instrument continuity, exchange eligibility and issuer matching using dated issuer filings. Never clip returns by magnitude. New price segments start without a predecessor return; forecasts still require a complete past window.",
+  "rules": {
+    "CHRD": {
+      "action": "start_at",
+      "date": "2020-11-20",
+      "reason": "Oasis predecessor common equity was cancelled in Chapter 11. New Oasis common began Nasdaq trading on November 20 and continued as CHRD after the 2022 merger. Old common and new common are not a continuous return series.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1486159/000148615920000115/oas-20201119.htm",
+        "https://www.sec.gov/Archives/edgar/data/1486159/000119312522189506/d253559d8k.htm"
+      ]
+    },
+    "SUPN": {
+      "action": "exclude",
+      "reason": "The current ticker belongs to surviving Indivior (CIK 1625297) after the 2026-11-02 merger. Its vendor history is not a verified match for the legacy Supernus fundamentals in this cohort (CIK 1356576); retain the candidate in the universe but do not use this price file.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1625297/000110465926121013/tm2628720d1_8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1356576/000135657623000016/supn-20221231.htm"
+      ]
+    },
+    "TGTX": {
+      "action": "start_at",
+      "date": "2013-05-30",
+      "reason": "Use the exchange-listed segment from the first Nasdaq session, following an OTC predecessor, reverse acquisition and reverse split. Keep the later listed event returns.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1001316/000114420413031682/v346287_8k.htm",
+        "https://www.sec.gov/Archives/edgar/data/1001316/000114420412028735/R15.htm"
+      ]
+    }
+  }
+}

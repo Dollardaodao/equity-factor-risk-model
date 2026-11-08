@@ -1,0 +1,16 @@
+[
+  {
+    "old": "XOM",
+    "new": "OKE",
+    "fund": "IVV",
+    "reason": "Original identifier points to predecessor registrant; dated legal-entity chain not included in this experiment",
+    "replacement_rule": "next highest-weight unselected same-fund same-sector issuer with a CIK hint; primary verification required"
+  },
+  {
+    "old": "VNOM",
+    "new": "NOV",
+    "fund": "IJH",
+    "reason": "Original identifier points to predecessor registrant; dated legal-entity chain not included in this experiment",
+    "replacement_rule": "next highest-weight unselected same-fund same-sector issuer with a CIK hint; primary verification required"
+  }
+]

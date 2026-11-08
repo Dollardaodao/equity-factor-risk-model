@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "experiment": "expanded_covariance_oos",
+  "as_of": "2026-11-04",
+  "price_start": "2010-01-01",
+  "price_end": "2026-09-30",
+  "model_start": "2011-02-01",
+  "model_end": "2026-09-30",
+  "universe_file": "universe.csv",
+  "universe_type": "2026-11-03 current iShares IVV/IJH/IJR holdings, 100 each, sector-round-robin selection; survivor and retrospective selection bias",
+  "sector_type": "static current fund sector labels; not historical GICS",
+  "exposure_frequency": "monthly, usable strictly after snapshot",
+  "return_frequency": "daily",
+  "style_factors": [
+    "size",
+    "momentum",
+    "quality",
+    "growth",
+    "value",
+    "low_vol"
+  ],
+  "additional_controls": [
+    "beta_control"
+  ],
+  "include_dividend_yield": true,
+  "minimum_stocks": 80,
+  "minimum_residual_df": 30,
+  "sec_cache": "data/sec",
+  "market_cache": "data/market",
+  "benchmark_file": "data/benchmark_returns_daily.csv",
+  "store_mimicking_weights": false,
+  "forecast": {
+    "origin_start": "2014-01-31",
+    "origin_end": "2026-08-31",
+    "holdout_start": "2022-01-01",
+    "horizons": [
+      21,
+      63
+    ],
+    "lookback": 756,
+    "min_history": 252,
+    "half_life": 63,
+    "shrinkage": 0.2,
+    "return_lookback": 252,
+    "specific_min_history": 126,
+    "seed": 20261104,
+    "min_stocks": 80
+  },
+  "predeclared_evaluation": "Parameters fixed before viewing expanded OOS scores. Chronological evaluation conditional on a current survivor-selected cohort, not a pristine prospective holdout. Future windows crossing 2022 are boundary-only. Monthly 21/63-day windows can overlap; no IID significance claims.",
+  "sources": {
+    "holdings": "iShares official latest-holdings.csv 2026-11-03",
+    "identifiers": "third-party ticker/CIK hints, each issuer verified at SEC submissions",
+    "long_history": "Yahoo public daily prices, adjusted returns and corporate actions, with dated security-identity rules",
+    "sec": "SEC Company Facts, strict filed<asof",
+    "benchmark": "French daily RF"
+  }
+}
